@@ -1,4 +1,4 @@
-{
+data = """{
 	"productsById": [{
 		"2894832": {
 			"id": 2894832,
@@ -6466,4 +6466,4 @@
 			"storeAvailability": null
 		}
 	}]
-}
+}"""

@@ -20,14 +20,14 @@ elapsed_scraping_time = 0.0
 elapsed_uploading_time = 0.0
 
 try:
-    for page in range(2, 2):
+    for page in range(1, 3):
         scrap_start = time.time()
-        url = "https://www.nordstrom.com/api/browse/browse/women/jewelry/fine?offset=0&top=5000"
+        url = "https://www.nordstrom.com/api/browse/browse/women/jewelry?offset=0&top=5000"
 
         if page > 1:
             url = re.sub(REGEX_URL_OFFSET, f'page={page}', url)
             page_counter = page
-
+        #
         # elif page == 2:
         #     url = "https://www.nordstrom.com/api/browse/browse/women/clothing?top=72&breadcrumb=Home%2FWomen%2FClothing&origin=topnav&offset=3&page=2"
 
@@ -89,7 +89,7 @@ try:
 finally:
     elapsed_uploading_time = time.strftime("%H:%M:%S", time.gmtime(elapsed_uploading_time))
     elapsed_scraping_time = time.strftime("%H:%M:%S", time.gmtime(elapsed_scraping_time))
-    text = f"uploaded={image_counter}, products={product_counter} page={page_counter} category=Women Fine jewelery uploading_time={elapsed_uploading_time} scraping_time={elapsed_scraping_time}"
+    text = f"uploaded={image_counter}, products={product_counter} page={page_counter} category=Women Jewelery uploading_time={elapsed_uploading_time} scraping_time={elapsed_scraping_time}"
     filename = "nordstorm_data_report"
     text_file_generator(filename, text)
     print(text)

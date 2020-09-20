@@ -24,7 +24,7 @@ def upload_to_clarifai(input_metadata, image_url, image_counter):
                     data=resources_pb2.Data(
                         image=resources_pb2.Image(
                             url=image_url,
-                            allow_duplicate_url=True
+                            allow_duplicate_url=False
                         ),
                         metadata=input_metadata
                     )
@@ -38,5 +38,4 @@ def upload_to_clarifai(input_metadata, image_url, image_counter):
         print("Post inputs failed, status: " + post_inputs_response.status.description)
         return image_counter
     else:
-        print(post_inputs_response.status.code + "-" + post_inputs_response.status.description)
         return image_counter+1

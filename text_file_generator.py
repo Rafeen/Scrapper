@@ -1,4 +1,5 @@
 def text_file_generator(filename, text):
-    with open(f'{filename}.txt', 'w+') as myFile:
-        myFile.write(text + '\n')
 
+    myfile = open(f'{filename}.txt', "a")
+    myfile.write(text + '\n')
+    myfile.close()

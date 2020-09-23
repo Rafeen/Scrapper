@@ -1,0 +1,24 @@
+uploaded=3413, products=1800 page_counter=10 category=Women All Clothing
+uploaded=1395, products=1080 page_counter=10-19 category=Women All Clothing
+uploaded=6036, products=4680 page_counter=170-195 category=Women all Clothing
+uploaded=5544, products=4151 page=42 category=Women all Clothing uploading_time=00:55:33 scraping_time=00:02:17
+uploaded=0, products=0 page=0 category=Women all Clothing uploading_time=00:00:00 scraping_time=00:00:00
+uploaded=346, products=201 page=43 category=Women all Clothing uploading_time=00:05:11 scraping_time=00:00:15
+uploaded=0, products=0 page=0 category=Women all Clothing uploading_time=00:00:00 scraping_time=00:00:00
+uploaded=2, products=201 page=209 category=Women all Clothing uploading_time=00:03:25 scraping_time=00:00:13
+uploaded=0, products=51 page=0 category=Women all Clothing uploading_time=00:00:34 scraping_time=00:00:03
+uploaded=0, products=51 page=0 category=Women all Clothing uploading_time=00:00:36 scraping_time=00:00:04
+uploaded=1630, products=851 page=55 category=Women all Clothing uploading_time=00:12:34 scraping_time=00:00:30
+uploaded=15296, products_url=180 products_total=7920 page_counter=99
+uploaded=7636, products=4140 page=121 category=Women all Clothing uploading_time=00:53:32 scraping_time=00:01:47
+uploaded=2871, products_url=180 products_total=3600 page_counter=228
+uploaded=16777, products=8460 page=168 category=Women all Clothing uploading_time=01:54:35 scraping_time=00:04:59
+uploaded=3584, products=1800 page=289 category=Women all Clothing uploading_time=00:23:15 scraping_time=00:01:05
+uploaded=3329, products_url=180 products_total=2160 page_counter=244
+uploaded=3942, products_url=180 products_total=2160 page_counter=300
+uploaded=3266, products_url=180 products_total=1800 page_counter=254
+uploaded=2606, products=1620 page=262 category=Women all Clothing uploading_time=00:21:01 scraping_time=00:01:01
+uploaded=10050, products_url=180 products_total=5220 page_counter=329
+uploaded=5552, products=2880 page=278 category=Women all Clothing uploading_time=00:36:44 scraping_time=00:01:53
+uploaded=322, products=180 page=279 category=Women all Clothing uploading_time=00:02:14 scraping_time=00:00:04
+uploaded=2870, products=1496 page=344 category=Women all Clothing uploading_time=00:19:42 scraping_time=00:01:22

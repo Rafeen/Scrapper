@@ -1,0 +1,13 @@
+uploaded=12, products=0 page=0 category=Women Apparel shop all uploading_time=00:00:05 scraping_time=00:00:06
+uploaded=0, products=1 page=0 category=Women Apparel shop all uploading_time=00:00:00 scraping_time=00:00:12
+uploaded=20, products=11 page=0 category=Women Apparel shop all uploading_time=00:01:11 scraping_time=00:00:09
+uploaded=0, products=11 page=0 category=Women Apparel shop all uploading_time=00:01:10 scraping_time=00:00:07
+uploaded=0, products=100 page=0 category=Women Apparel shop all uploading_time=00:01:04 scraping_time=00:00:05
+uploaded=1132, products=594 page=0 category=Women Apparel shop all uploading_time=00:09:55 scraping_time=00:00:45
+uploaded=1637, products=872 page=0 category=Women Apparel shop all uploading_time=00:13:08 scraping_time=00:01:49
+uploaded=1342, products=744 page=83 category=Women Apparel shop all uploading_time=00:11:51 scraping_time=00:01:58
+uploaded=9383, products=4806 page=132 category=Women Apparel shop all uploading_time=01:03:10 scraping_time=00:13:18
+uploaded=10587, products=5497 page=66 category=Women Apparel shop all uploading_time=01:12:28 scraping_time=00:12:24
+uploaded=219, products=200 page=69 category=Women Apparel shop all uploading_time=00:02:19 scraping_time=00:00:29
+uploaded=0, products=100 page=69 category=Women Apparel shop all uploading_time=00:01:03 scraping_time=00:00:13
+uploaded=67, products=100 page=1 category=Women Apparel shop all uploading_time=00:01:09 scraping_time=00:00:12

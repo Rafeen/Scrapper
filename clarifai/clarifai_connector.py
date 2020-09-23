@@ -38,4 +38,6 @@ def upload_to_clarifai(input_metadata, image_url, image_counter):
         print("Post inputs failed, status: " + post_inputs_response.status.description)
         return image_counter
     else:
+        if image_counter > 0 and (image_counter+1) % 2000 == 0:
+            print(image_counter+1)
         return image_counter+1
